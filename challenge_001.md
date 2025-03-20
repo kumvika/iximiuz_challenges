@@ -10,4 +10,3 @@ Run `redis-cli` with the `--version` flag in a `redis` container
 laborant@docker-01:~$ docker run redis redis-cli --version
 redis-cli 7.4.2
 ```
-
